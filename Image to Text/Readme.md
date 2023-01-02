@@ -5,7 +5,7 @@
 # 1. Download Tesseract OCR
 Tesseract is an optical character recognition (OCR) engine developed by Google. It is designed to recognize text in images and convert them into machine-readable text.
 
-You need this to read your images. Head over to this link: OCR Downalod
+You need this to read your images. Head over to this link: https://github.com/UB-Mannheim/tesseract/wiki
 
 Then download the latest version for your OS
 
